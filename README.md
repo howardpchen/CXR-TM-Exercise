@@ -1,10 +1,12 @@
-# RSNA Spotlight 2023
+# Hands-On Build-An-AI Exercise
 
 ## AI Implementation: Building Expertise and Influence.
 
 ## Acknowledgements
 
 The medical images for this session (chest x-rays) were obtained from: Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017 and are available [here](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community).
+
+This exercise was forked from Luciano Pavidello's "CXR-TM-Exercise" Github library.
 
 ## Basics of Image Classification
 In the field of radiology, one of the most common tasks is the interpretation of chest X-rays. This task, at its core, is image classification.
